@@ -46,10 +46,10 @@ npm run dev
 ## Live Demo
 
 Frontend:
-YOUR_VERCEL_URL
+https://manufacturing-crm-seven.vercel.app/
 
 Backend:
-YOUR_RENDER_URL
+https://manufacturing-crm.onrender.com/
 
 ## Author
 
