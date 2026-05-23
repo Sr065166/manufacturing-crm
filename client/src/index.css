@@ -1,0 +1,25 @@
+@import "tailwindcss";
+.sidebar ul {
+  list-style: none;
+  padding: 0;
+}
+
+.sidebar ul li {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 14px;
+  margin: 10px 0;
+  border-radius: 8px;
+  transition: 0.3s;
+}
+
+.sidebar ul li:hover {
+  background: #1e3a8a;
+  cursor: pointer;
+  transform: translateX(5px);
+}
+
+.icon {
+  font-size: 18px;
+}
